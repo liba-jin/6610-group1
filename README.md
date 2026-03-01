@@ -12,7 +12,7 @@ The notebooks folder has each of the individual codes that we did to both explor
 - [XN_individual_check_in_1.ipynb](notebooks/XN_individual_check_in_1.ipynb) (Peter Adranly)
 - [hw4_yungchenlin.ipynb](notebooks/hw4_yungchenlin.ipynb) (Yung Chen Lin)
 - [w7.ipynb](notebooks/w7.ipynb) (Xuezhen Jin)
-### SRC
+### [SRC](src)
 The src folder holds our developing code for ongoing exploration and machine learning development.
 
 
@@ -20,7 +20,7 @@ The src folder holds our developing code for ongoing exploration and machine lea
 ### Step 1
 Download the [Antiviral Potency](data/antiviral_potency_2025_unblinded.csv) dataset from the data folder.
 ### Step 2
-Select which code youd like to run and download it from the src folder. Open that file through a platform like Visual Studio Code or Jupyter Notebooks.
+Select which code youd like to run and download it from the [src](src/main.ipynb) folder. Open that file through a platform like Visual Studio Code or Jupyter Notebooks.
 ##### *Additionally, you may need to set up your environment to work with Python when using Visual Studio Code*
 ### Step 3
 Check to see if the path makes sense for where the dataset is on your device and run the code. If the code runs, then you have completed all the necessary steps!
